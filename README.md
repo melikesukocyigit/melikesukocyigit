@@ -20,6 +20,7 @@
 ## ⚙️ Core Focus
 
 - 📱 Native iOS & Android Development  
+- 🏗 Scalable software architectures (MVVM, Clean Code, SOLID)
 - 🧠 AI-integrated mobile systems (Core ML / Vision)  
 - 📊 Data analysis & predictive modeling  
 - 📈 Business process & requirements analysis  
@@ -34,6 +35,14 @@
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=android&logoColor=white)
+
+---
+
+### 🏗 Architecture & Patterns
+![MVVM](https://img.shields.io/badge/MVVM-5C2D91?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2B3A42?style=flat)
+![SOLID](https://img.shields.io/badge/SOLID-3A6EA5?style=flat)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-008080?style=flat)
 
 ---
 
