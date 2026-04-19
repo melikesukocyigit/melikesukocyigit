@@ -2,7 +2,7 @@
 
 # Melike Su Koçyiğit  
 
-### Native Mobile Engineer • Business Analyst • AI Integrator
+### Native Mobile Engineer • Business-Data Analyst • AI Integrator
 
 <br/>
 
